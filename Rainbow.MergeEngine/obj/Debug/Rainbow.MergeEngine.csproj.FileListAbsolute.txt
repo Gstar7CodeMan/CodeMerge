@@ -1,0 +1,6 @@
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\Rainbow.MergeEngine\bin\Debug\Rainbow.MergeEngine.dll
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\Rainbow.MergeEngine\bin\Debug\Rainbow.MergeEngine.pdb
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\Rainbow.MergeEngine\obj\Debug\Rainbow.MergeEngine.csproj.AssemblyReference.cache
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\Rainbow.MergeEngine\obj\Debug\Rainbow.MergeEngine.csproj.CoreCompileInputs.cache
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\Rainbow.MergeEngine\obj\Debug\Rainbow.MergeEngine.dll
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\Rainbow.MergeEngine\obj\Debug\Rainbow.MergeEngine.pdb

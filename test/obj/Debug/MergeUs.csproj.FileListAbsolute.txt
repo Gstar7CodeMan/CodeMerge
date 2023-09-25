@@ -1,0 +1,9 @@
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\bin\Debug\MergeUs.exe
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\bin\Debug\MergeUs.pdb
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\bin\Debug\Rainbow.MergeEngine.dll
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\bin\Debug\Rainbow.MergeEngine.pdb
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\obj\Debug\MergeUs.csproj.AssemblyReference.cache
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\obj\Debug\MergeUs.csproj.CoreCompileInputs.cache
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\obj\Debug\MergeUs.csproj.CopyComplete
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\obj\Debug\MergeUs.exe
+C:\Users\Gcorp\Desktop\HtmlTextCompare_src\test\obj\Debug\MergeUs.pdb
